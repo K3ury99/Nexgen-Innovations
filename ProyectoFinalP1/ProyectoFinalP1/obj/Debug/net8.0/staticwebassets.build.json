@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W9m0xUp53iB2MBRozrfa4zQlRNH6X6odtFMWS5u9phY=",
+  "Hash": "fUSRoHWDNMvKhK4+XHTqoNMemMkp6z0ywZPVBtEV+CI=",
   "Source": "ProyectoFinalP1",
   "BasePath": "_content/ProyectoFinalP1",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\cards\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img1.jpg",
+      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\1.jpg",
       "SourceId": "ProyectoFinalP1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\",
       "BasePath": "_content/ProyectoFinalP1",
-      "RelativePath": "carousel/img1.jpg",
+      "RelativePath": "carousel/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\carousel\\img1.jpg"
+      "OriginalItemSpec": "wwwroot\\carousel\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img2.jpg",
+      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\2.jpg",
       "SourceId": "ProyectoFinalP1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\",
       "BasePath": "_content/ProyectoFinalP1",
-      "RelativePath": "carousel/img2.jpg",
+      "RelativePath": "carousel/2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\carousel\\img2.jpg"
+      "OriginalItemSpec": "wwwroot\\carousel\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img3.jpg",
+      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\3.jpg",
       "SourceId": "ProyectoFinalP1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\",
       "BasePath": "_content/ProyectoFinalP1",
-      "RelativePath": "carousel/img3.jpg",
+      "RelativePath": "carousel/3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\carousel\\img3.jpg"
+      "OriginalItemSpec": "wwwroot\\carousel\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img4.jpg",
+      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\4.jpg",
       "SourceId": "ProyectoFinalP1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\",
       "BasePath": "_content/ProyectoFinalP1",
-      "RelativePath": "carousel/img4.jpg",
+      "RelativePath": "carousel/4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\carousel\\img4.jpg"
+      "OriginalItemSpec": "wwwroot\\carousel\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img5.jpg",
+      "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\5.jpg",
       "SourceId": "ProyectoFinalP1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\",
       "BasePath": "_content/ProyectoFinalP1",
-      "RelativePath": "carousel/img5.jpg",
+      "RelativePath": "carousel/5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\carousel\\img5.jpg"
+      "OriginalItemSpec": "wwwroot\\carousel\\5.jpg"
     },
     {
       "Identity": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\css\\site.css",
