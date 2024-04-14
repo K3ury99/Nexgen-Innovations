@@ -1,0 +1,38 @@
+﻿@model ProyectoFinalP1.Models.Sucursale
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>¿Seguro que quiere borrar esta sucursal?</h2>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+    </dl>
+
+    <hr />
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdSucursal" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-primary">Volver a la lista</a>
+    </form>
+</div>

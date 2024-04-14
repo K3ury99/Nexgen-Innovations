@@ -1,0 +1,53 @@
+# Visual Studio 2015, 2017, and 2019 generated files
+.vs/
+/bin/
+/obj/
+
+# Visual Studio code files
+.vscode/
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nuget.packages
+
+# ReSharper
+_ReSharper*/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Visual Studio IntelliCode
+.vscode/
+
+# Roslyn cache directories
+*.RoslynCodeAnalysis/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Node.js
+node_modules/
