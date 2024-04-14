@@ -7,7 +7,7 @@
 <h1>Clientes</h1>
 
 <p>
-    <a asp-action="Create" class="btn btn-primary">Crear nuevo cliente</a>
+    <a asp-action="Create" class="btn btn-outline-primary">Crear nuevo cliente</a>
 </p>
 <table class="table">
     <thead>
@@ -55,9 +55,9 @@
                 @Html.DisplayFor(modelItem => item.Cedula)
             </td>
             <td>
-                <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.IdCliente">Editar</a> |
-                <a asp-action="Details" class="btn btn-primary" asp-route-id="@item.IdCliente">Detalles</a> |
-                <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.IdCliente">Borrar</a>
+                    <a asp-action="Edit" class="btn btn-outline-primary" asp-route-id="@item.IdCliente">Editar</a> |
+                    <a asp-action="Details" class="btn btn-outline-success" asp-route-id="@item.IdCliente">Detalles</a> |
+                    <a asp-action="Delete" class="btn btn-outline-danger" asp-route-id="@item.IdCliente">Borrar</a>
             </td>
         </tr>
 }
