@@ -5,6 +5,38 @@
       "PackagePath": "staticwebassets\\ProyectoFinalP1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\cards\\1.jpg",
+      "PackagePath": "staticwebassets\\cards\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\cards\\2.jpg",
+      "PackagePath": "staticwebassets\\cards\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\cards\\3.jpg",
+      "PackagePath": "staticwebassets\\cards\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img1.jpg",
+      "PackagePath": "staticwebassets\\carousel\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img2.jpg",
+      "PackagePath": "staticwebassets\\carousel\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img3.jpg",
+      "PackagePath": "staticwebassets\\carousel\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img4.jpg",
+      "PackagePath": "staticwebassets\\carousel\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\carousel\\img5.jpg",
+      "PackagePath": "staticwebassets\\carousel\\img5.jpg"
+    },
+    {
       "Id": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

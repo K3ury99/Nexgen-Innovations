@@ -1,8 +1,106 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<div id="carouselExample" class="carousel slide" asp-controller="Home">
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    </div>
+
+    <div class="carousel-inner">
+        <div class="carousel-item active c-item">
+            <img src="/carousel/img1.jpg" class="d-block w-100 c-img" alt="Slide 1">
+        </div>
+        <div class="carousel-item c-item">
+            <img src="/carousel/img2.jpg" class="d-block w-100 c-img" alt="Slide 2">
+        </div>
+        <div class="carousel-item c-item">
+            <img src="/carousel/img3.jpg" class="d-block w-100 c-img" alt="Slide 3">
+        </div>
+        <div class="carousel-item c-item">
+            <img src="/carousel/img4.jpg" class="d-block w-100 c-img" alt="Slide 4">
+        </div>
+        <div class="carousel-item c-item">
+            <img src="/carousel/img5.jpg" class="d-block w-100 c-img" alt="Slide 5">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
 </div>
+
+<br />
+<br />
+
+<!-- Experience -->
+<section class="container">
+    <div class="row">
+        <!-- texts -->
+        <div class="col-12 text-center">
+            <h2 class="text-primary text-uppercase h6">Acerca de nosotros</h2>
+            <h3 class="text-capitalize">Nexgen: el núcleo de la innovación tecnológica del mañana.</h3>
+            <p class="text-muted">
+                Nexgen, una empresa líder en tecnología de vanguardia, ha estado redefiniendo los límites de la innovación
+                desde su fundación. Con un enfoque centrado en la investigación y el desarrollo, Nexgen ha desbloqueado
+                avances revolucionarios en inteligencia artificial y aplicaciones web. Su compromiso con la excelencia
+                tecnológica se refleja en cada producto y solución que ofrecen.
+            </p>
+        </div>
+
+        <!-- CARDS -->
+        <!-- CARD 1 -->
+        <article class="col-4 card-effect">
+            <div class="card">
+                <img src="~/cards/1.jpg" alt="Clientes" class="card-img card-img-filter" />
+                <div class="card-img-overlay text-white d-flex flex-column justify-content-center text-center">
+                    <h4><font color="blue">Clientes</font></h4>
+                    <p>
+                        En Nexgen, nuestros clientes son socios en la búsqueda de la excelencia tecnológica,
+                        ofreciendo soluciones a medida y estableciendo relaciones sólidas basadas en la confianza
+                        y la colaboración, donde las posibilidades tecnológicas son infinitas.
+                    </p>
+                    <a href="https://www.spring.bank/los-mejores-clientes-del-mundo-nos-hacen-lo-mejor-para-el-mundo-otra-vez/?lang=es" class="text-reset btn btn-primary">Leer más...</a>
+                </div>
+            </div>
+        </article>
+
+        <!-- CARD 2 -->
+        <article class="col-4 card-effect">
+            <div class="card">
+                <img src="~/cards/2.jpg" alt="Vendedores" class="card-img card-img-filter" />
+                <div class="card-img-overlay text-white d-flex flex-column justify-content-center text-center">
+                    <h4><font color="blue">Vendedores</font></h4>
+                    <p>
+                        Nuestro equipo de ventas en Nexgen son expertos tanto en tecnología como en relaciones
+                        interpersonales, comprometidos en entender las necesidades del cliente y proporcionar
+                        soluciones que superen sus expectativas.
+                    </p>
+                    <a href="https://blog.sorteostec.org/ventas" class="text-reset btn btn-primary">Leer más...</a>
+                </div>
+            </div>
+        </article>
+
+        <!-- CARD 3 -->
+        <article class="col-4 card-effect">
+            <div class="card">
+                <img src="~/cards/3.jpg" alt="Productos" class="card-img card-img-filter" />
+                <div class="card-img-overlay text-white d-flex flex-column justify-content-center text-center">
+                    <h4><font color="blue">Productos</font></h4>
+                    <p>
+                        En Nexgen, cada producto refleja nuestra búsqueda incansable de la excelencia
+                        tecnológica, diseñados meticulosamente con un cuidado por el detalle y una obsesión
+                        por la calidad, anticipando y satisfaciendo las demandas futuras del mercado.
+                    </p>
+                    <a href="https://www.hostinger.es/tutoriales/productos-para-vender" class="text-reset btn btn-primary">Leer más...</a>
+                </div>
+            </div>
+        </article>
+
+    </div>
+</section>
