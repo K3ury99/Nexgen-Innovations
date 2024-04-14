@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "97q76DxJaJsx2+zlBcszgVIoJG/N8XCc4M6bnbyLJADpK3sGRVcvv6uNMiBJnwg2sqaRRvE+IfvcHTZx91g2UA==",
+  "dgSpecHash": "6kw5jM93zo1X0ocuKKPV84daGjIwYtO+XajbAJuOS7OsJv0bnAKanCBG/gFERfy2dOaMIxMrJXwGJfoXDB8O4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj",
+  "projectFilePath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Keury\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Keury\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

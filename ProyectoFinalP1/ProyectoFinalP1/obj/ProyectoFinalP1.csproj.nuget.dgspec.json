@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj": {}
+    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj": {
+    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj",
+        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj",
         "projectName": "ProyectoFinalP1",
-        "projectPath": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj",
+        "projectPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\ProyectoFinalP1.csproj",
         "packagesPath": "C:\\Users\\Keury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keury\\Desktop\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\obj\\",
+        "outputPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\Final-Proyect-P1\\ProyectoFinalP1\\ProyectoFinalP1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
