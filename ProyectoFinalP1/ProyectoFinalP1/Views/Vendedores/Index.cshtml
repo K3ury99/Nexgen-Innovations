@@ -9,6 +9,17 @@
 <p>
     <a asp-action="Create" class="btn btn-outline-primary">Crear nuevo vendedor</a>
 </p>
+
+
+<!-- Se elimina el metodo si no se quiere ver la busqueda en el URL -->
+<form asp-controller="Vendedores" asp-action="Index" method="get" class="search-form">
+    <p>
+        Buscar: <input type="text" name="buscar" class="form-text" /> |
+        <input type="submit" name="Buscar" class="btn btn-sm btn-outline-dark" />
+    </p>
+</form>
+
+
 <table class="table">
     <thead>
         <tr>

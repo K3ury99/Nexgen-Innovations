@@ -9,6 +9,17 @@
 <p>
     <a asp-action="Create" class="btn btn-outline-primary">Crear nuevo cliente</a>
 </p>
+
+<!-- Se elimina el metodo si no se quiere ver la busqueda en el URL -->
+<form asp-controller="Clientes" asp-action="Index" method="get" class="search-form">
+    <p>
+        Buscar: <input type="text" name="buscar" class="form-text" /> |
+        <input type="submit" name="Buscar" class="btn btn-sm btn-outline-dark" />
+    </p>
+</form>
+
+
+
 <table class="table">
     <thead>
         <tr>
@@ -34,32 +45,33 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Apellido)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Edad)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Telefono)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Correo)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cedula)
-            </td>
-            <td>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellido)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Edad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Correo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cedula)
+                </td>
+                <td>
                     <a asp-action="Edit" class="btn btn-outline-primary" asp-route-id="@item.IdCliente">Editar</a> |
                     <a asp-action="Details" class="btn btn-outline-success" asp-route-id="@item.IdCliente">Detalles</a> |
                     <a asp-action="Delete" class="btn btn-outline-danger" asp-route-id="@item.IdCliente">Borrar</a>
-            </td>
-        </tr>
-}
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

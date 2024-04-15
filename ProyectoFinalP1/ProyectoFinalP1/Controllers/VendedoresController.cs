@@ -19,9 +19,19 @@ namespace ProyectoFinalP1.Controllers
         }
 
         // GET: Vendedores
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string buscar)
         {
-            return View(await _context.Vendedores.ToListAsync());
+            // Metodo para buscar en la tabla vendedor
+            var usuarios = from Vendedor in _context.Vendedores select Vendedor;
+
+            if (!String.IsNullOrEmpty(buscar))
+            {
+                // Metodo para buscar el nombre en la tabla vendedor
+                usuarios = usuarios.Where(s => s.Nombre!.Contains(buscar));
+            }
+
+
+            return View(await usuarios.ToListAsync());
         }
 
         // GET: Vendedores/Details/5

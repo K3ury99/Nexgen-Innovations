@@ -19,9 +19,19 @@ namespace ProyectoFinalP1.Controllers
         }
 
         // GET: Productoes
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string buscar)
         {
-            return View(await _context.Productos.ToListAsync());
+            // Metodo para buscar en la tabla producto
+            var usuarios = from Producto in _context.Productos select Producto;
+
+            if (!String.IsNullOrEmpty(buscar))
+            {
+                // Metodo para buscar el nombre en la tabla producto
+                usuarios = usuarios.Where(s => s.Nombre!.Contains(buscar));
+            }
+
+
+            return View(await usuarios.ToListAsync());
         }
 
         // GET: Productoes/Details/5

@@ -19,9 +19,19 @@ namespace ProyectoFinalP1.Controllers
         }
 
         // GET: Sucursales
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string buscar)
         {
-            return View(await _context.Sucursales.ToListAsync());
+            // Metodo para buscar en la tabla cliente
+            var usuarios = from Sucursale in _context.Sucursales select Sucursale;
+
+            if (!String.IsNullOrEmpty(buscar))
+            {
+                // Metodo para buscar el nombre en la tabla cliente
+                usuarios = usuarios.Where(s => s.Nombre!.Contains(buscar));
+            }
+
+
+            return View(await usuarios.ToListAsync());
         }
 
         // GET: Sucursales/Details/5

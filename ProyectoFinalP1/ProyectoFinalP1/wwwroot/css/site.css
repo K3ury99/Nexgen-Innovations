@@ -59,3 +59,9 @@ footer {
     transition-duration: 0.6s;
     clip-path: polygon( 50% 0, 100% 0, 100% 50%, 100% 100%, 50% 100%, 0 100%, 0 50%, 0 0 );
 }
+
+/* Boton de busqueda */
+.search-form {
+    display: flex;
+    justify-content: flex-end;
+}
