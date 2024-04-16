@@ -27,7 +27,7 @@ namespace ProyectoFinalP1.Controllers
             if (!String.IsNullOrEmpty(buscar))
             {
                 // Metodo para buscar el nombre en la tabla producto
-                usuarios = usuarios.Where(s => s.Nombre!.Contains(buscar));
+                usuarios = usuarios.Where(c => c.Nombre!.Contains(buscar) || c.Precio!.Contains(buscar) || c.Descripcion!.Contains(buscar) || c.Categoria!.Contains(buscar) || c.Stock!.Contains(buscar));
             }
 
 

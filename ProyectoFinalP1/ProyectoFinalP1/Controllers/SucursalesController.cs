@@ -27,7 +27,7 @@ namespace ProyectoFinalP1.Controllers
             if (!String.IsNullOrEmpty(buscar))
             {
                 // Metodo para buscar el nombre en la tabla cliente
-                usuarios = usuarios.Where(s => s.Nombre!.Contains(buscar));
+                usuarios = usuarios.Where(c => c.Nombre!.Contains(buscar) || c.Direccion!.Contains(buscar) || c.Telefono!.Contains(buscar));
             }
 
 

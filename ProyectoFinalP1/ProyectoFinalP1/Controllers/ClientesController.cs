@@ -21,18 +21,18 @@ namespace ProyectoFinalP1.Controllers
         // GET: Clientes
         public async Task<IActionResult> Index(string buscar)
         {
-            // Metodo para buscar en la tabla cliente
-            var usuarios = from Cliente in _context.Clientes select Cliente;
+            // Método para buscar en la tabla cliente
+            var usuarios = from cliente in _context.Clientes select cliente;
 
             if (!String.IsNullOrEmpty(buscar))
             {
-                // Metodo para buscar el nombre en la tabla cliente
-                usuarios = usuarios.Where(s => s.Nombre!.Contains(buscar));
+                // Método para buscar el nombre o apellido en la tabla cliente
+                usuarios = usuarios.Where(c => c.Nombre!.Contains(buscar) || c.Apellido!.Contains(buscar) || c.Edad!.Contains(buscar) || c.Telefono!.Contains(buscar) || c.Correo!.Contains(buscar) || c.Cedula!.Contains(buscar));
             }
-
-
-                return View(await usuarios.ToListAsync());
+            
+            return View(await usuarios.ToListAsync());
         }
+
 
         // GET: Clientes/Details/5
         public async Task<IActionResult> Details(int? id)
