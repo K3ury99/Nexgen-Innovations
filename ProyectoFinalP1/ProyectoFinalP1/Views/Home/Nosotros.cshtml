@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewData["Title"] = "Nosotros";
+}
+
+<br />
+
+<!-- Textos de la parte superior superior -->
+<div class="col-12 text-center">
+    <h2 class="text-primary text-uppercase h5">¿Quienes Somos?</h2>
+    <h3 class="text-capitalize">Desarrolladores de NexGen</h3>
+    <p class="text-muted">
+        El equipo de desarrollo senior de Nexgen, ha sido fundamental en la creación de productos innovadores que han llevado
+        a la empresa a la vanguardia de la tecnología. Con más de 7 años de
+        experiencia en ASP.NET, han liderado proyectos ambiciosos, demostrando
+        su capacidad para fusionar a la perfección el diseño frontend y el desarrollo
+        backend. El compromiso de cada uno con la excelencia técnica y su habilidad para resolver
+        problemas complejos han contribuido significativamente al éxito continuo de
+        Nexgen en la industria de la tecnología.
+    </p>
+</div>
+
+<!-- Carousel -->
+<!-- Aqui es donde estan las clases del carousel -->
+<div id="carouselExample" class="carousel slide" asp-controller="Home">
+
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+
+
+    <div class="carousel-inner">
+        <div class="carousel-item active c-item-2">
+            <img src="/img_personas/keury.jpg" class="d-block w-100 c-img-2" alt="Slide 1">
+        </div>
+        <div class="carousel-item c-item-2">
+            <img src="/img_personas/victor.jpg" class="d-block w-100 c-img-2" alt="Slide 2">
+        </div>
+        <div class="carousel-item c-item-2">
+            <img src="/img_personas/erick.jpg" class="d-block w-100 c-img-2" alt="Slide 3">
+        </div>
+    </div>
+
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
