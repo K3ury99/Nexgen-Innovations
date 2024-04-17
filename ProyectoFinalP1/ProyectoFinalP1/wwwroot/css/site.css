@@ -25,7 +25,7 @@ footer {
     text-align: center;
 }
 
-/** imagenes - carousel Home - NO TOCAR!!! **/
+/** imagenes - carousel Home **/
 .c-item {
     height: 480px;
 }
@@ -36,21 +36,19 @@ footer {
     filter: brightness(0.6);
 }
 
-/** imagenes - keury, victor, erick - MODIFICAR **/
-/** Jurunga aqui para que las imagenes esten mas chiquitas, son muy grandes **/
-.c-item-2 {
-    height: 100%;
-    width: 100%;
+/** imagenes - keury, victor, erick **/
+.img-personas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Ajusta según sea necesario */
 }
 
-c-img-2 {
-    height: 100%;
-    object-fit: cover;
-    filter: brightness(0.6);
+.img-personas .img {
+    max-width: 100%; /* Ajusta el tamaño máximo de las imágenes */
+    height: auto;
+    margin: 0 10px; /* Espacio entre las imágenes */
 }
-
-
-
 
 
 /** Section Experience **/
