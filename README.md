@@ -8,11 +8,12 @@ This is a final project of the programming 1 subject made in ASP.NET CORE MVC, w
 
 ## Facility
 
-1. Clone this repository to your local machine: https://github.com/K3ury99/Nexgen-Innovations.git
+1. Clone this repository to your local machine:
+- git clone https://github.com/K3ury99/Nexgen-Innovations.git
 
-2. Open the project in Visual Studio or Visual Studio Code.
+3. Open the project in Visual Studio or Visual Studio Code.
 
-3. Open the terminal in the project location and run the following commands to install the dependencies: dotnet restore
+4. Open the terminal in the project location and run the following commands to install the dependencies: dotnet restore
 
 ## Database configuration
 
