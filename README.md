@@ -3,10 +3,10 @@ This is a final project of the programming 1 subject made in ASP.NET CORE MVC, w
 
 - Explanatory video on YouTube: https://www.youtube.com/watch?v=FRRp64l4Df4
 
-<!-- ![2024-04-21_23h39_14](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e) -->
+<!-- En resumen, solo se sube la imagen y se toma el URL para editarlo, y se utiliza display flex para agregarlas una al lado de la otra ajustando el width -->
 <div style="display: flex;">
   <img src="https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e" width="49%"></img>
-  <img src="https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e" width="49%"></img>
+  <img src="https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/90592af9-5057-4b42-8a20-590b4acf3c31" width="49%"></img>
 </div>
 
 ## Requirements
