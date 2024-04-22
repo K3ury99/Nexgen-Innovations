@@ -2,6 +2,7 @@
 This is a final project of the programming 1 subject made in ASP.NET CORE MVC, which is connected to a Sqlite3 database, this is a CRUD system made with Scaffold and the front is made with Boostrap.
 
 - Explanatory video on YouTube: https://www.youtube.com/watch?v=FRRp64l4Df4
+![1 (3)](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/f4a264a8-6bbd-49bb-a91b-72f17b44ac93)
 
 
 ## Proyectos *bombitas*
@@ -10,7 +11,7 @@ This is a final project of the programming 1 subject made in ASP.NET CORE MVC, w
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/e517b010-7bfb-4526-8eac-981f8983d9d7"></a>
+<a>![1 (3)](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/f4a264a8-6bbd-49bb-a91b-72f17b44ac93)</a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
