@@ -2,26 +2,6 @@
 This is a final project of the programming 1 subject made in ASP.NET CORE MVC, which is connected to a Sqlite3 database, this is a CRUD system made with Scaffold and the front is made with Boostrap.
 
 - Explanatory video on YouTube: https://www.youtube.com/watch?v=FRRp64l4Df4
-![1 (3)](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/f4a264a8-6bbd-49bb-a91b-72f17b44ac93)
-
-
-## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a>![1 (3)](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/f4a264a8-6bbd-49bb-a91b-72f17b44ac93)</a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
 
 ## Requirements
 
