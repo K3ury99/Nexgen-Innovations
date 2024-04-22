@@ -3,9 +3,7 @@ This is a final project of the programming 1 subject made in ASP.NET CORE MVC, w
 
 - Explanatory video on YouTube: https://www.youtube.com/watch?v=FRRp64l4Df4
 
-![1 (3)](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/440fb49d-7c8f-408d-963d-9d207ce4d431)
-
-
+![2024-04-21_23h39_14](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e)
 
 ## Requirements
 
