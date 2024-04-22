@@ -6,7 +6,7 @@ This is a final project of the programming 1 subject made in ASP.NET CORE MVC, w
 ![2024-04-21_23h39_14](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e)
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/K3ury99/Nexgen-Innovations/raw/main/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e" alt="Alt text" width="300"/>
+    <img src="![2024-04-21_23h39_14](https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e)" alt="Alt text" width="300"/>
     <p>Texto que acompaña a la imagen.</p>
 </div>
 
