@@ -2,7 +2,7 @@
 This is a final project of the programming 1 subject made in ASP.NET CORE MVC, which is connected to a Sqlite3 database, this is a CRUD system made with Scaffold and the front is made with Boostrap.
 
 - Explanatory video on YouTube: https://www.youtube.com/watch?v=FRRp64l4Df4
-
+ 
 <!-- En resumen, solo se sube la imagen y se toma el URL para editarlo, y se utiliza display flex para agregarlas una al lado de la otra ajustando el width -->
 <div style="display: flex;">
   <img src="https://github.com/K3ury99/Nexgen-Innovations/assets/128008789/245eb144-89e4-42ba-b249-5b764e91354e" width="49%"></img>
