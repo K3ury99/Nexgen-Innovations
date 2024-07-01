@@ -1,5 +1,5 @@
 # NexGen Innovations
-This is a final project of the programming 1 subject made in ASP.NET CORE MVC, which is connected to a Sqlite3 database, this is a CRUD system made with Scaffold and the front is made with Boostrap.
+This is a CRUD system developed in ASP.NET CORE MVC, which is connected to a Sqlite3 database. It uses Scaffold to automatically generate the code needed for create, read, update, and delete operations. The frontend is designed with Bootstrap for a responsive and modern user interface.
 
 - Explanatory video on YouTube: https://www.youtube.com/watch?v=FRRp64l4Df4
   
