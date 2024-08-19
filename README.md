@@ -1,4 +1,5 @@
 # NexGen Innovations
+> [!NOTE]
 This is a CRUD system developed in ASP.NET CORE MVC, which is connected to a Sqlite3 database. It uses Scaffold to automatically generate the code needed for create, read, update, and delete operations. The frontend is designed with Bootstrap for a responsive and modern user interface.
 
 - Explanatory video on YouTube: https://www.youtube.com/watch?v=FRRp64l4Df4
@@ -51,7 +52,6 @@ If you wish to contribute to this project, please follow the following steps:
 
 5. Create a pull request on GitHub and describe your changes in detail.
 
-## Credits 🎉
-
-This project was developed by: Keury Ramírez, Victor Sanchez, Erick de la Rosa.
+> [!IMPORTANT]
+This project was developed by: **Keury Ramírez, Victor Sanchez.**
 
